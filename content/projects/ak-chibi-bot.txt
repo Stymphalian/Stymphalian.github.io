@@ -413,7 +413,7 @@ to pay for any other storage/services.
 
 
 ## System Diagram
-
+![systemDiagram](/images/ak-chibi-bot/system_diagram.png)
 ```mermaid
 graph TB
     %% External Systems
