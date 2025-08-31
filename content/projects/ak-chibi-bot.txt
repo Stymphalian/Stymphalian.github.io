@@ -1,7 +1,6 @@
 # Arknights Chibi Twitch Bot
 A Twitch bot and browser source overlay that displays Arknights chibi characters walking on your stream. Viewers can interact with the bot using chat commands to choose operators, change skins, and play different animations.
 
-
 ## Background
 I've been playing (addicted) to a mobile game called Arknights for a couple of years now (since 2023).
 It's a mobile tower defense gacha game built by a Chinese game company called Hypergryph.
@@ -414,7 +413,7 @@ to pay for any other storage/services.
 
 ## System Diagram
 ![systemDiagram](/images/ak-chibi-bot/system_diagram.png)
-```mermaid
+```text
 graph TB
     %% External Systems
     Twitch[Twitch Chat/API]
